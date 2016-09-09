@@ -1,0 +1,5 @@
+[0903/215334:ERROR:crash_report_database_win.cc(412)] unexpected header
+[0905/011657:ERROR:crash_report_database_win.cc(412)] unexpected header
+[0906/011817:ERROR:crash_report_database_win.cc(412)] unexpected header
+[0906/012817:ERROR:crash_report_database_win.cc(412)] unexpected header
+[0906/012817:ERROR:crash_report_database_win.cc(412)] unexpected header
